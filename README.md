@@ -6,7 +6,7 @@
 
 ## Description
 
-_This simple webpage includes custom CSS styles using classes and floats._
+_This HTML webpage includes custom CSS styles using classes and floats._
 
 ## Setup/Installation Requirements
 
