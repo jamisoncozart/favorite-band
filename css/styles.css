@@ -1,0 +1,52 @@
+img {
+  height: auto;
+  width: 400px;
+}
+
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 20px;
+}
+
+.header {
+  background-color: #cacaca;
+  height: 100px;
+  padding: 20px;
+}
+
+.header img {
+  height: 100px;
+  width: auto;
+  float: left;
+  margin-right: 30px;
+}
+
+.header h1 {
+  padding: 10px;
+}
+
+.sidebar {
+  float: right;
+  background-color: #cacaca;
+  padding: 20px;
+  height: 750px;
+  width: 30%;
+  margin-top: 20px;
+}
+
+.center {
+  float: left;
+  width: 30%;
+  padding: 20px;
+  margin: 10px;
+}
+
+.sidebar2 {
+  float: left;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
